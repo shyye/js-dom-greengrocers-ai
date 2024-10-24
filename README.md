@@ -3,6 +3,7 @@
 Copilot Exercise: https://github.com/shyye/ai-day-1  
 Original fork for this repo: https://github.com/shyye/js-dom-greengrocers
 
+----------------------------------------
 
 In this exercise we explore a common scenario in eCommerce, adding and removing items from the cart, and calculating the total. Your final solution should look like this:
 
