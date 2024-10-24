@@ -240,6 +240,7 @@ From conversation 2, last question:
 "I don't see anything get added in the cart via the UI but I see that the state.cart array have items, you need to add the items from state.cart into the cart items list"
 
 This code seems to work.
+NOTE: Just the core part is implemented, not the Extensions.
 */
 // Function to render cart items
 function renderCartItems() {
