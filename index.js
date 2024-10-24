@@ -54,7 +54,7 @@ const state = {
   cart: []
 };
 
-// Questions asked/conversation with Copilot to generate the code below:
+// Questions asked/conversation with Copilot (in the Chat) to generate the code below:
 // Note I first tried to just provide Copilot with all instructions, but it removed the CSS and didn't get the code to work.
 
 
